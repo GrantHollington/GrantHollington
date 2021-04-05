@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning to code. You can reach me at gcas012106@coderacademy.edu.au
+
 <!--
 **GrantHollington/GrantHollington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
